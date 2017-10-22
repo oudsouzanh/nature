@@ -1,5 +1,5 @@
 This project consists three windows service (nature,nature1,nature2 : esfahanoud1,esfahanoud2 , wwinfilteroud). Each service has a duty which except it, it also controls other services
-The goal of this project is to prolong the software's resistance to erasure until according to the time cost, users are required to comply with the restrictions imposed by themselves and finally they manage to control their environment. The software of this project includes some exe files and a help file for installation and setting up on Windows, which is placed on Here (file32bit,file64bit : Suitable for system type) and the site below.
+The goal of this project is to prolong the software's resistance to erasure until according to the time cost, users are required to comply with the restrictions imposed by themselves and finally they manage to control their environment. The software of this project includes some exe files and a help file for installation and setting up on Windows, which is placed on the site below (file32bit,file64bit : Suitable for system type):
 
 Site address : freedomofnature.com
 
