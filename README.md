@@ -10,7 +10,5 @@ Donation:
 If this software is useful for you or another, I appreciated to pay some money to these credits. If this is difficult please send me an empty email as an “Donation”, so I introduce another credits (Paypal account). thanks 
 
 WebMoney account : Z613574829222
-
-Bitcoin account  :  1ERMUaK5cj992k8MrH788vTU4gJSK6EZzX
  
 My email  :  hamed.oudsouzan@gmail.com
